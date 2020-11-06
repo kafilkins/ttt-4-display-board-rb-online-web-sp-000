@@ -9,11 +9,3 @@ def display_board(board)
 end
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-
-puts "   |   |   "
-puts "-----------"
-puts "   | #{board[4]}  |   "
-puts "-----------"
-puts "   |   |   "
-
-board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
