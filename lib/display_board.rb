@@ -9,5 +9,3 @@ puts "#{lines}"
 puts "#{board[6]} #{separator} #{board[7]} #{seperator} #{board[8]} "
 
 end
-
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
